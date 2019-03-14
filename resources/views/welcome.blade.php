@@ -30,6 +30,7 @@
     <body>
         <div class="flex-center position-ref full-height">
             <h1>hello world!</h1>
+            <h1>看看效果</h1>
         </div>
     </body>
 </html>
